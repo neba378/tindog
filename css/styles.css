@@ -89,7 +89,7 @@ a {
   position: relative;
   background-color: #fff;
   position: relative;
-  z-index: -1;
+  z-index: 1;
 }
 
 /*testimonial*/
